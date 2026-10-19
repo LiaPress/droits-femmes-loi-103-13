@@ -40,4 +40,6 @@ Erstellt mit [LiaScript](https://liascript.github.io), einer offenen Auszeichnun
 
 Démo d'un cours en autoformation sur les droits humains, les droits des femmes et la loi 103-13. Elle montre le module 1 dans une première version allemande ; la version finale sera disponible en français et en arabe. [Ouvrir le module 1 dans LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPress/droits-femmes-loi-103-13/main/materials/1-menschen-und-frauenrechte/README.md).
 
-**Autor:** André Dietrich · **Lizenz:** siehe [LICENSE](LICENSE)
+**Autor:** André Dietrich · © 2026 André Dietrich
+
+**Lizenz:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de) – Weitergabe mit Namensnennung erlaubt, keine kommerzielle Nutzung, keine Bearbeitungen. Volltext in [LICENSE](LICENSE).
