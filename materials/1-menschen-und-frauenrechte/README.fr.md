@@ -7,6 +7,10 @@ narrator: French Female
 comment:  Module 1 du cours « Droits humains, droits des femmes et Loi 103-13 » – les droits humains et les droits des femmes, un engagement que le Maroc a lui-même pris. Version teaser, traduite de l’allemand (projet de traduction, relecture à faire).
 import:   https://raw.githubusercontent.com/LiaTemplates/pixijs/0.5.0/README.md
 script:   ./assets/portraits/portrait-animation.js
+
+translation: Allemand ./README.md
+translation: Anglais  ./README.en.md
+translation: Arabe    ./README.ar.md
 -->
 
 # Droits humains et droits des femmes

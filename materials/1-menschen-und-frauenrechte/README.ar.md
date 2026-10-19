@@ -8,6 +8,10 @@ narrator: Arabic Female
 comment:  الوحدة 1 من دورة «Droits humains, droits des femmes et Loi 103-13» – حقوق الإنسان وحقوق المرأة بوصفها التزامًا قطعه المغرب على نفسه. نسخة تمهيدية مترجمة عن الألمانية (مسودة ترجمة، تحتاج إلى مراجعة).
 import:   https://raw.githubusercontent.com/LiaTemplates/pixijs/0.5.0/README.md
 script:   ./assets/portraits/portrait-animation.js
+
+translation: الفرنسية   ./README.fr.md
+translation: الألمانية  ./README.md
+translation: الإنجليزية ./README.en.md
 -->
 
 # حقوق الإنسان وحقوق المرأة

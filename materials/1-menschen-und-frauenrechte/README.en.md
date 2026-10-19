@@ -7,6 +7,10 @@ narrator: UK English Female
 comment:  Module 1 of the course “Droits humains, droits des femmes et Loi 103-13” – human rights and women’s rights as a commitment Morocco has made itself. Teaser version, translated from German (draft translation, to be reviewed).
 import:   https://raw.githubusercontent.com/LiaTemplates/pixijs/0.5.0/README.md
 script:   ./assets/portraits/portrait-animation.js
+
+translation: Arabic ./README.ar.md
+translation: French ./README.fr.md
+translation: German ./README.md
 -->
 
 # Human Rights and Women’s Rights

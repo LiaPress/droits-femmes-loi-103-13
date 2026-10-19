@@ -7,6 +7,11 @@ narrator: Deutsch Female
 comment:  Modul 1 des Kurses „Droits humains, droits des femmes et Loi 103-13“ – Menschen- und Frauenrechte als Verpflichtung, die Marokko selbst eingegangen ist. Teaser-Fassung, zunächst auf Deutsch.
 import:   https://raw.githubusercontent.com/LiaTemplates/pixijs/0.5.0/README.md
 script:   ./assets/portraits/portrait-animation.js
+
+translation: Arabisch    ./README.ar.md
+translation: Englisch    ./README.en.md
+translation: Französisch ./README.fr.md
+              
 -->
 
 # Menschen- und Frauenrechte
