@@ -1,45 +1,63 @@
 # Droits humains, droits des femmes et Loi 103-13
 
-> **Demo** – Dies ist eine Vorschau auf einen geplanten Selbstlernkurs. Sie zeigt Modul 1 in einer ersten deutschen Fassung. Die Endfassung erscheint auf Französisch und Arabisch.
+> **Démo** – Aperçu d’un cours en autoformation en préparation. Il présente le module 1 en quatre langues : français, arabe, anglais et allemand. Les versions traduites sont des premières versions ; une relecture professionnelle est prévue.
 
-[![Titelbild von Modul 1: ein Schreibtisch in einer Dienststelle, gegenüber ein leerer Stuhl im warmen Morgenlicht, durch das Fenster ein Olivenhain](materials/1-menschen-und-frauenrechte/assets/images/titelbild.png)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPress/droits-femmes-loi-103-13/main/materials/1-menschen-und-frauenrechte/README.md)
+[![Image de titre du module 1 : un bureau dans un poste ; de l’autre côté, une chaise vide dans la lumière chaude du matin ; par la fenêtre, une oliveraie](materials/1-menschen-und-frauenrechte/assets/images/titelbild.png)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPress/droits-femmes-loi-103-13/main/materials/1-menschen-und-frauenrechte/README.fr.md)
 
-**▶ [Modul 1 im LiaScript-Kurs öffnen](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPress/droits-femmes-loi-103-13/main/materials/1-menschen-und-frauenrechte/README.md)**
+**▶ Ouvrir le module 1 dans LiaScript :**
 
-## Worum es geht
+| Langue | Module 1 |
+|---|---|
+| Français | [Droits humains et droits des femmes](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPress/droits-femmes-loi-103-13/main/materials/1-menschen-und-frauenrechte/README.fr.md) |
+| العربية | [حقوق الإنسان وحقوق المرأة](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPress/droits-femmes-loi-103-13/main/materials/1-menschen-und-frauenrechte/README.ar.md) |
+| English | [Human Rights and Women’s Rights](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPress/droits-femmes-loi-103-13/main/materials/1-menschen-und-frauenrechte/README.en.md) |
+| Deutsch | [Menschen- und Frauenrechte](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPress/droits-femmes-loi-103-13/main/materials/1-menschen-und-frauenrechte/README.md) |
 
-Der Kurs richtet sich an Bedienstete, die Frauen begegnen, die Gewalt erlebt haben. Er besteht aus drei Modulen à etwa 8–10 Minuten:
+## De quoi s’agit-il ?
 
-1. **Menschen- und Frauenrechte** – die Rechte, zu denen sich Marokko selbst verpflichtet hat *(diese Demo)*
-2. **Das Gesetz 103-13** – Schutz von Frauen vor Gewalt *(geplant)*
-3. **Praxis der Betreuung** – Frauen aufnehmen, informieren und weiterleiten *(geplant)*
+Le cours s’adresse aux agentes et agents qui reçoivent des femmes ayant subi des violences. Il comprend trois modules d’environ 8 à 10 minutes chacun :
 
-In Modul 1 begleiten Sie Khadija, eine Frau, die vor einigen Jahren auf eine Wache kam. Sie selbst tun Dienst und treffen drei Entscheidungen. Jede hat Folgen für Khadija. Danach folgt ein kurzes Abschlussquiz. Alle Figuren sind erfunden.
+1. **Droits humains et droits des femmes** – les droits auxquels le Maroc s’est lui-même engagé *(cette démo)*
+2. **La loi 103-13** – la protection des femmes contre la violence *(prévu)*
+3. **La pratique de la prise en charge** – accueillir, informer et orienter les femmes *(prévu)*
 
-## Was die Demo zeigt
+Dans le module 1, vous accompagnez Khadija, une femme qui s’est présentée il y a quelques années dans un poste. Vous êtes vous-même de service et vous prenez trois décisions. Chacune a des conséquences pour Khadija. Un court quiz final suit. Tous les personnages sont fictifs.
 
-* **Animierte Szenen statt Video** – gebaut mit der [PixiJS-Vorlage für LiaScript](https://github.com/LiaTemplates/pixijs), leicht zu übersetzen und zu ändern
-* **Vorlesen** über die Stimmen des Browsers, Bedienung auch ganz mit der Tastatur
-* **Barrierefreiheit** – Textalternativen für alle Bilder, zugängliche Navigation
-* **Export für Moodle** als SCORM-Paket mit dem [LiaScript-Exporter](https://github.com/LiaScript/LiaScript-Exporter)
+## Ce que montre la démo
 
-## Inhalt des Repositorys
+* **Des scènes animées plutôt que de la vidéo** – réalisées avec le [modèle PixiJS pour LiaScript](https://github.com/LiaTemplates/pixijs), faciles à traduire et à modifier ; en arabe, la scène se lit de droite à gauche
+* **Lecture à voix haute** avec les voix du navigateur, utilisation entièrement possible au clavier
+* **Accessibilité** – des alternatives textuelles pour toutes les images, une navigation accessible
+* **Export pour Moodle** sous forme de paquet SCORM avec le [LiaScript-Exporter](https://github.com/LiaScript/LiaScript-Exporter)
+
+## Contenu du dépôt
 
 ```
 materials/
 └── 1-menschen-und-frauenrechte/
-    ├── README.md        ← Modul 1 als LiaScript-Kurs
-    └── assets/          ← Bilder, Figuren und Animationsskript
+    ├── README.fr.md     ← module 1 en français
+    ├── README.ar.md     ← module 1 en arabe
+    ├── README.en.md     ← module 1 en anglais
+    ├── README.md        ← module 1 en allemand (version de travail)
+    └── assets/          ← images, personnages et script d’animation
 ```
 
-Erstellt mit [LiaScript](https://liascript.github.io), einer offenen Auszeichnungssprache für interaktive Kurse.
+Réalisé avec [LiaScript](https://liascript.github.io), un langage de balisage ouvert pour des cours interactifs.
 
 ---
 
-### En bref
+### باختصار
 
-Démo d'un cours en autoformation sur les droits humains, les droits des femmes et la loi 103-13. Elle montre le module 1 dans une première version allemande ; la version finale sera disponible en français et en arabe. [Ouvrir le module 1 dans LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPress/droits-femmes-loi-103-13/main/materials/1-menschen-und-frauenrechte/README.md).
+عرض تجريبي لدورة للتعلم الذاتي حول حقوق الإنسان وحقوق المرأة والقانون رقم 103.13. [فتح الوحدة 1 بالعربية](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPress/droits-femmes-loi-103-13/main/materials/1-menschen-und-frauenrechte/README.ar.md).
 
-**Autor:** André Dietrich · © 2026 André Dietrich
+### In brief
 
-**Lizenz:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de) – Weitergabe mit Namensnennung erlaubt, keine kommerzielle Nutzung, keine Bearbeitungen. Volltext in [LICENSE](LICENSE).
+Demo of a self-paced course on human rights, women’s rights and Law 103-13. [Open Module 1 in English](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPress/droits-femmes-loi-103-13/main/materials/1-menschen-und-frauenrechte/README.en.md).
+
+### Kurz gesagt
+
+Demo eines Selbstlernkurses zu Menschenrechten, Frauenrechten und dem Gesetz 103-13. [Modul 1 auf Deutsch öffnen](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPress/droits-femmes-loi-103-13/main/materials/1-menschen-und-frauenrechte/README.md).
+
+**Auteur :** André Dietrich · © 2026 André Dietrich
+
+**Licence :** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr) – partage autorisé avec mention de l’auteur, pas d’utilisation commerciale, pas de modification. Texte intégral dans [LICENSE](LICENSE).
