@@ -1,0 +1,1892 @@
+[
+  {
+    "person": "khadija",
+    "expression": "neutral",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      1,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 121,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "neutral",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      2,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 121,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "neutral",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      2,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 121,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "neutral",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      3,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 121,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "neutral",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      3,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 206,
+        "cy": 79,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 248,
+        "cy": 79,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "neutral",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      5,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 206,
+        "cy": 79,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 248,
+        "cy": 79,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "freundlich",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      1,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 221,
+        "cy": 119,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "freundlich",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      2,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 221,
+        "cy": 119,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "freundlich",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      2,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 221,
+        "cy": 119,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "freundlich",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      2,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 221,
+        "cy": 119,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "freundlich",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      3,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 199,
+        "cy": 83,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 240,
+        "cy": 77,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "freundlich",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      4,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 199,
+        "cy": 83,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 240,
+        "cy": 77,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "traurig",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      1,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 123,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "traurig",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      2,
+      -1
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 123,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "traurig",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      2,
+      -1
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 123,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "traurig",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      3,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 123,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "traurig",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      3,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 203,
+        "cy": 82,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 244,
+        "cy": 82,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "traurig",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      4,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 203,
+        "cy": 82,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 244,
+        "cy": 82,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "nachdenklich",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      1,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 196,
+        "cy": 144,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "nachdenklich",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      1,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 196,
+        "cy": 144,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "nachdenklich",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      1,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 196,
+        "cy": 144,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "nachdenklich",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      2,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 196,
+        "cy": 144,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "nachdenklich",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      3,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 174,
+        "cy": 106,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 209,
+        "cy": 107,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "nachdenklich",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      3,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 174,
+        "cy": 106,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 209,
+        "cy": 107,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "besorgt",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      1,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 224,
+        "cy": 127,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "besorgt",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      1,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 224,
+        "cy": 127,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "besorgt",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      1,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 224,
+        "cy": 127,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "besorgt",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      3,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 224,
+        "cy": 127,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "besorgt",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      3,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 206,
+        "cy": 85,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 248,
+        "cy": 85,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "besorgt",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      4,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 206,
+        "cy": 85,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 248,
+        "cy": 85,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "unsicher",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      1,
+      -1
+    ],
+    "mask": [
+      {
+        "cx": 222,
+        "cy": 125,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "unsicher",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      1,
+      -1
+    ],
+    "mask": [
+      {
+        "cx": 222,
+        "cy": 125,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "unsicher",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      1,
+      -1
+    ],
+    "mask": [
+      {
+        "cx": 222,
+        "cy": 125,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "unsicher",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      2,
+      -1
+    ],
+    "mask": [
+      {
+        "cx": 222,
+        "cy": 125,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "unsicher",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      3,
+      -1
+    ],
+    "mask": [
+      {
+        "cx": 207,
+        "cy": 87,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 247,
+        "cy": 86,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "unsicher",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      3,
+      -1
+    ],
+    "mask": [
+      {
+        "cx": 207,
+        "cy": 87,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 247,
+        "cy": 86,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "gefasst",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      1,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 113,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "gefasst",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      2,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 113,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "gefasst",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      2,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 113,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "gefasst",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      2,
+      1
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 113,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "khadija",
+    "expression": "gefasst",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      3,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 205,
+        "cy": 74,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 246,
+        "cy": 74,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "khadija",
+    "expression": "gefasst",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      4,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 205,
+        "cy": 74,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 246,
+        "cy": 74,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "samira",
+    "expression": "neutral",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      3,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 133,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "neutral",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      6,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 133,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "neutral",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      6,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 133,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "neutral",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      3,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 133,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "neutral",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      4,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 205,
+        "cy": 94,
+        "rx": 16,
+        "ry": 8
+      },
+      {
+        "cx": 245,
+        "cy": 94,
+        "rx": 16,
+        "ry": 8
+      }
+    ],
+    "pixels": 778
+  },
+  {
+    "person": "samira",
+    "expression": "neutral",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      2,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 205,
+        "cy": 94,
+        "rx": 16,
+        "ry": 8
+      },
+      {
+        "cx": 245,
+        "cy": 94,
+        "rx": 16,
+        "ry": 8
+      }
+    ],
+    "pixels": 778
+  },
+  {
+    "person": "samira",
+    "expression": "freundlich",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      3,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 234,
+        "cy": 138,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "freundlich",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      4,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 234,
+        "cy": 138,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "freundlich",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      4,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 234,
+        "cy": 138,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "freundlich",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      3,
+      1
+    ],
+    "mask": [
+      {
+        "cx": 234,
+        "cy": 138,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "freundlich",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      3,
+      1
+    ],
+    "mask": [
+      {
+        "cx": 211,
+        "cy": 99,
+        "rx": 16,
+        "ry": 8
+      },
+      {
+        "cx": 251,
+        "cy": 92,
+        "rx": 16,
+        "ry": 8
+      }
+    ],
+    "pixels": 778
+  },
+  {
+    "person": "samira",
+    "expression": "freundlich",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      3,
+      1
+    ],
+    "mask": [
+      {
+        "cx": 211,
+        "cy": 99,
+        "rx": 16,
+        "ry": 8
+      },
+      {
+        "cx": 251,
+        "cy": 92,
+        "rx": 16,
+        "ry": 8
+      }
+    ],
+    "pixels": 778
+  },
+  {
+    "person": "samira",
+    "expression": "ernst",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      3,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 136,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "ernst",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      5,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 136,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "ernst",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      5,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 136,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "ernst",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      4,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 136,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "ernst",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      4,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 205,
+        "cy": 97,
+        "rx": 16,
+        "ry": 8
+      },
+      {
+        "cx": 245,
+        "cy": 97,
+        "rx": 16,
+        "ry": 8
+      }
+    ],
+    "pixels": 778
+  },
+  {
+    "person": "samira",
+    "expression": "ernst",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      2,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 205,
+        "cy": 97,
+        "rx": 16,
+        "ry": 8
+      },
+      {
+        "cx": 245,
+        "cy": 97,
+        "rx": 16,
+        "ry": 8
+      }
+    ],
+    "pixels": 778
+  },
+  {
+    "person": "samira",
+    "expression": "nachdenklich",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      4,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 210,
+        "cy": 154,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "nachdenklich",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      4,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 210,
+        "cy": 154,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "nachdenklich",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      4,
+      0
+    ],
+    "mask": [
+      {
+        "cx": 210,
+        "cy": 154,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "nachdenklich",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      3,
+      1
+    ],
+    "mask": [
+      {
+        "cx": 210,
+        "cy": 154,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "samira",
+    "expression": "nachdenklich",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      4,
+      1
+    ],
+    "mask": [
+      {
+        "cx": 190,
+        "cy": 115,
+        "rx": 16,
+        "ry": 8
+      },
+      {
+        "cx": 231,
+        "cy": 123,
+        "rx": 16,
+        "ry": 8
+      }
+    ],
+    "pixels": 778
+  },
+  {
+    "person": "samira",
+    "expression": "nachdenklich",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      2,
+      1
+    ],
+    "mask": [
+      {
+        "cx": 190,
+        "cy": 115,
+        "rx": 16,
+        "ry": 8
+      },
+      {
+        "cx": 231,
+        "cy": 123,
+        "rx": 16,
+        "ry": 8
+      }
+    ],
+    "pixels": 778
+  },
+  {
+    "person": "driss",
+    "expression": "neutral",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      5,
+      5
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 151,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "neutral",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      0,
+      5
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 151,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "neutral",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      0,
+      5
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 151,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "neutral",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      -1,
+      5
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 151,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "neutral",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      0,
+      5
+    ],
+    "mask": [
+      {
+        "cx": 205,
+        "cy": 106,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 245,
+        "cy": 106,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "driss",
+    "expression": "neutral",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      -1,
+      5
+    ],
+    "mask": [
+      {
+        "cx": 205,
+        "cy": 106,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 245,
+        "cy": 106,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "driss",
+    "expression": "skeptisch",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      3,
+      4
+    ],
+    "mask": [
+      {
+        "cx": 210,
+        "cy": 153,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "skeptisch",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      2,
+      4
+    ],
+    "mask": [
+      {
+        "cx": 210,
+        "cy": 153,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "skeptisch",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      2,
+      4
+    ],
+    "mask": [
+      {
+        "cx": 210,
+        "cy": 153,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "skeptisch",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      1,
+      4
+    ],
+    "mask": [
+      {
+        "cx": 210,
+        "cy": 153,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "skeptisch",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      1,
+      4
+    ],
+    "mask": [
+      {
+        "cx": 191,
+        "cy": 106,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 231,
+        "cy": 117,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "driss",
+    "expression": "skeptisch",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      3,
+      4
+    ],
+    "mask": [
+      {
+        "cx": 191,
+        "cy": 106,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 231,
+        "cy": 117,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "driss",
+    "expression": "freundlich",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      4,
+      5
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 146,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "freundlich",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      2,
+      5
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 146,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "freundlich",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      2,
+      5
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 146,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "freundlich",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      0,
+      5
+    ],
+    "mask": [
+      {
+        "cx": 225,
+        "cy": 146,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "freundlich",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      1,
+      6
+    ],
+    "mask": [
+      {
+        "cx": 205,
+        "cy": 101,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 245,
+        "cy": 101,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "driss",
+    "expression": "freundlich",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      0,
+      6
+    ],
+    "mask": [
+      {
+        "cx": 205,
+        "cy": 101,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 245,
+        "cy": 101,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "driss",
+    "expression": "nachdenklich",
+    "tile": 0,
+    "kind": "mouth",
+    "registration": [
+      4,
+      1
+    ],
+    "mask": [
+      {
+        "cx": 200,
+        "cy": 147,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "nachdenklich",
+    "tile": 1,
+    "kind": "mouth",
+    "registration": [
+      4,
+      1
+    ],
+    "mask": [
+      {
+        "cx": 200,
+        "cy": 147,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "nachdenklich",
+    "tile": 2,
+    "kind": "mouth",
+    "registration": [
+      4,
+      1
+    ],
+    "mask": [
+      {
+        "cx": 200,
+        "cy": 147,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "nachdenklich",
+    "tile": 3,
+    "kind": "mouth",
+    "registration": [
+      2,
+      1
+    ],
+    "mask": [
+      {
+        "cx": 200,
+        "cy": 147,
+        "rx": 25,
+        "ry": 12
+      }
+    ],
+    "pixels": 927
+  },
+  {
+    "person": "driss",
+    "expression": "nachdenklich",
+    "tile": 4,
+    "kind": "eye",
+    "registration": [
+      2,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 196,
+        "cy": 98,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 235,
+        "cy": 109,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  },
+  {
+    "person": "driss",
+    "expression": "nachdenklich",
+    "tile": 5,
+    "kind": "eye",
+    "registration": [
+      1,
+      2
+    ],
+    "mask": [
+      {
+        "cx": 196,
+        "cy": 98,
+        "rx": 18,
+        "ry": 10
+      },
+      {
+        "cx": 235,
+        "cy": 109,
+        "rx": 18,
+        "ry": 10
+      }
+    ],
+    "pixels": 1106
+  }
+]

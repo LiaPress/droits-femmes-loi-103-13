@@ -1,0 +1,448 @@
+{
+  "version": 3,
+  "width": 448,
+  "height": 512,
+  "tile": 160,
+  "faceOrigin": [
+    144,
+    30
+  ],
+  "profiles": {
+    "khadija": {
+      "expressions": [
+        "neutral",
+        "freundlich",
+        "traurig",
+        "nachdenklich",
+        "besorgt",
+        "unsicher",
+        "gefasst"
+      ],
+      "atlas": "khadija/faces.png",
+      "bodies": {
+        "neutral": "../images/figuren/khadija/neutral.png",
+        "freundlich": "../images/figuren/khadija/freundlich.png",
+        "traurig": "../images/figuren/khadija/traurig.png",
+        "nachdenklich": "../images/figuren/khadija/nachdenklich.png",
+        "besorgt": "../images/figuren/khadija/besorgt.png",
+        "unsicher": "../images/figuren/khadija/unsicher.png",
+        "gefasst": "../images/figuren/khadija/gefasst.png"
+      },
+      "mouths": {
+        "neutral": {
+          "cx": 225,
+          "cy": 121,
+          "rx": 25,
+          "ry": 12
+        },
+        "freundlich": {
+          "cx": 221,
+          "cy": 119,
+          "rx": 25,
+          "ry": 12
+        },
+        "traurig": {
+          "cx": 225,
+          "cy": 123,
+          "rx": 25,
+          "ry": 12
+        },
+        "nachdenklich": {
+          "cx": 196,
+          "cy": 144,
+          "rx": 25,
+          "ry": 12
+        },
+        "besorgt": {
+          "cx": 224,
+          "cy": 127,
+          "rx": 25,
+          "ry": 12
+        },
+        "unsicher": {
+          "cx": 222,
+          "cy": 125,
+          "rx": 25,
+          "ry": 12
+        },
+        "gefasst": {
+          "cx": 225,
+          "cy": 113,
+          "rx": 25,
+          "ry": 12
+        }
+      },
+      "eyes": [
+        [
+          [
+            206,
+            79
+          ],
+          [
+            248,
+            79
+          ]
+        ],
+        [
+          [
+            199,
+            83
+          ],
+          [
+            240,
+            77
+          ]
+        ],
+        [
+          [
+            203,
+            82
+          ],
+          [
+            244,
+            82
+          ]
+        ],
+        [
+          [
+            174,
+            106
+          ],
+          [
+            209,
+            107
+          ]
+        ],
+        [
+          [
+            206,
+            85
+          ],
+          [
+            248,
+            85
+          ]
+        ],
+        [
+          [
+            207,
+            87
+          ],
+          [
+            247,
+            86
+          ]
+        ],
+        [
+          [
+            205,
+            74
+          ],
+          [
+            246,
+            74
+          ]
+        ]
+      ],
+      "headEnd": 205,
+      "poses": {
+        "ellenbogen": {
+          "file": "../images/figuren/khadija/ellenbogen.png",
+          "face": "besorgt",
+          "alt": "Khadija zieht die Arme an den Körper und hält den eigenen Ellenbogen."
+        },
+        "ellenbogen-traurig": {
+          "file": "../images/figuren/khadija/ellenbogen.png",
+          "face": "traurig",
+          "alt": "Khadija zieht die Arme an den Körper und hält den eigenen Ellenbogen."
+        },
+        "ellenbogen-traenen": {
+          "file": "../images/figuren/khadija/ellenbogen.png",
+          "face": "traurig",
+          "alt": "Khadija hält ihren eigenen Ellenbogen; eine Träne läuft über ihre Wange.",
+          "head": "../images/figuren/khadija/traenen.png"
+        },
+        "schulmappe": {
+          "file": "../images/figuren/khadija/schulmappe.png",
+          "face": "besorgt",
+          "alt": "Khadija hält die Schulmappe mit beiden Händen nah am Körper."
+        },
+        "schulmappe-traurig": {
+          "file": "../images/figuren/khadija/schulmappe.png",
+          "face": "traurig",
+          "alt": "Khadija hält die Schulmappe mit beiden Händen nah am Körper."
+        },
+        "zugehoert": {
+          "file": "../images/figuren/khadija/zugehoert.png",
+          "face": "neutral",
+          "alt": "Khadijas Schultern und Hände sind etwas gelöster."
+        },
+        "zugehoert-gefasst": {
+          "file": "../images/figuren/khadija/zugehoert.png",
+          "face": "gefasst",
+          "alt": "Khadijas Schultern und Hände sind etwas gelöster."
+        },
+        "aufbruch": {
+          "file": "../images/figuren/khadija/aufbruch.png",
+          "face": "nachdenklich",
+          "alt": "Khadija hält die Mappe an sich und wendet sich zur Tür."
+        },
+        "beraterin": {
+          "file": "../images/figuren/khadija/beraterin.png",
+          "face": "gefasst",
+          "alt": "Khadija steht aufrecht und öffnet eine Hand im Gespräch."
+        }
+      }
+    },
+    "samira": {
+      "expressions": [
+        "neutral",
+        "freundlich",
+        "ernst",
+        "nachdenklich"
+      ],
+      "atlas": "samira/faces.png",
+      "bodies": {
+        "neutral": "../images/figuren/samira/neutral.png",
+        "freundlich": "../images/figuren/samira/freundlich.png",
+        "ernst": "../images/figuren/samira/ernst.png",
+        "nachdenklich": "../images/figuren/samira/nachdenklich.png"
+      },
+      "mouths": {
+        "neutral": {
+          "cx": 225,
+          "cy": 133,
+          "rx": 25,
+          "ry": 12
+        },
+        "freundlich": {
+          "cx": 234,
+          "cy": 138,
+          "rx": 25,
+          "ry": 12
+        },
+        "ernst": {
+          "cx": 225,
+          "cy": 136,
+          "rx": 25,
+          "ry": 12
+        },
+        "nachdenklich": {
+          "cx": 210,
+          "cy": 154,
+          "rx": 25,
+          "ry": 12
+        }
+      },
+      "eyes": [
+        [
+          [
+            205,
+            94
+          ],
+          [
+            245,
+            94
+          ]
+        ],
+        [
+          [
+            211,
+            99
+          ],
+          [
+            251,
+            92
+          ]
+        ],
+        [
+          [
+            205,
+            97
+          ],
+          [
+            245,
+            97
+          ]
+        ],
+        [
+          [
+            190,
+            115
+          ],
+          [
+            231,
+            123
+          ]
+        ]
+      ],
+      "poses": {
+        "begruessung": {
+          "file": "../images/figuren/samira/begruessung.png",
+          "face": "freundlich",
+          "alt": "Samira hebt eine offene Hand zur Begrüßung."
+        },
+        "erklaeren": {
+          "file": "../images/figuren/samira/erklaeren.png",
+          "face": "neutral",
+          "alt": "Samira öffnet beide Hände nach vorn."
+        },
+        "erklaeren-ernst": {
+          "file": "../images/figuren/samira/erklaeren.png",
+          "face": "ernst",
+          "alt": "Samira öffnet beide Hände nach vorn."
+        },
+        "verweisen": {
+          "file": "../images/figuren/samira/verweisen.png",
+          "face": "neutral",
+          "alt": "Samira weist mit einer offenen Hand zum Symbol.",
+          "offsetX": -54
+        },
+        "notiz-verweisen": {
+          "file": "../images/figuren/samira/verweisen.png",
+          "face": "neutral",
+          "alt": "Samira weist mit einer offenen Hand zum Symbol.",
+          "focus": true,
+          "offsetX": -54
+        },
+        "notiz-verweisen-ernst": {
+          "file": "../images/figuren/samira/verweisen.png",
+          "face": "ernst",
+          "alt": "Samira weist mit einer offenen Hand zum Symbol.",
+          "focus": true,
+          "offsetX": -54
+        },
+        "rueckblick-verweisen": {
+          "file": "../images/figuren/samira/verweisen.png",
+          "face": "neutral",
+          "alt": "Samira weist mit einer offenen Hand zum Symbol.",
+          "focus": true,
+          "offsetX": -54
+        },
+        "notiz-erklaeren": {
+          "file": "../images/figuren/samira/erklaeren.png",
+          "face": "neutral",
+          "alt": "Samira öffnet beide Hände nach vorn.",
+          "focus": true
+        },
+        "notiz-ernst": {
+          "file": "../images/figuren/samira/erklaeren.png",
+          "face": "ernst",
+          "alt": "Samira öffnet beide Hände nach vorn.",
+          "focus": true
+        },
+        "rueckblick": {
+          "file": "../images/figuren/samira/neutral.png",
+          "face": "neutral",
+          "alt": "Samira hält die Hände ruhig vor dem Körper.",
+          "focus": true
+        },
+        "rueckblick-ernst": {
+          "file": "../images/figuren/samira/ernst.png",
+          "face": "ernst",
+          "alt": "Samira hält die Hände gesenkt und blickt ernst.",
+          "focus": true
+        },
+        "rueckblick-freundlich": {
+          "file": "../images/figuren/samira/freundlich.png",
+          "face": "freundlich",
+          "alt": "Samira hält die Hände gesenkt und blickt freundlich.",
+          "focus": true
+        }
+      }
+    },
+    "driss": {
+      "expressions": [
+        "neutral",
+        "skeptisch",
+        "freundlich",
+        "nachdenklich"
+      ],
+      "atlas": "driss/faces.png",
+      "bodies": {
+        "neutral": "../images/figuren/driss/neutral.png",
+        "skeptisch": "../images/figuren/driss/skeptisch.png",
+        "freundlich": "../images/figuren/driss/freundlich.png",
+        "nachdenklich": "../images/figuren/driss/nachdenklich.png"
+      },
+      "mouths": {
+        "neutral": {
+          "cx": 225,
+          "cy": 151,
+          "rx": 25,
+          "ry": 12
+        },
+        "skeptisch": {
+          "cx": 210,
+          "cy": 153,
+          "rx": 25,
+          "ry": 12
+        },
+        "freundlich": {
+          "cx": 225,
+          "cy": 146,
+          "rx": 25,
+          "ry": 12
+        },
+        "nachdenklich": {
+          "cx": 200,
+          "cy": 147,
+          "rx": 25,
+          "ry": 12
+        }
+      },
+      "eyes": [
+        [
+          [
+            205,
+            106
+          ],
+          [
+            245,
+            106
+          ]
+        ],
+        [
+          [
+            191,
+            106
+          ],
+          [
+            231,
+            117
+          ]
+        ],
+        [
+          [
+            205,
+            101
+          ],
+          [
+            245,
+            101
+          ]
+        ],
+        [
+          [
+            196,
+            98
+          ],
+          [
+            235,
+            109
+          ]
+        ]
+      ],
+      "poses": {
+        "telefon": {
+          "file": "../images/figuren/driss/telefon.png",
+          "face": "neutral",
+          "headLeft": 172,
+          "headRight": 310,
+          "alt": "Driss hält ein Telefon an sein Ohr.",
+          "fullSprite": true
+        }
+      }
+    }
+  }
+}

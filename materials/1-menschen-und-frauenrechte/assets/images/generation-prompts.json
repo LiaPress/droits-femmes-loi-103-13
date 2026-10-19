@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "hintergrund-empfang",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/hintergrund-empfang.png",
+    "prompt": "Semi-realistic illustration, 16:9, 1600×900 px. First-person view from behind an officer's desk in the modest reception area of a Moroccan public office: the edge of the desk with a few neatly stacked files in the lower foreground, an empty wooden chair facing the viewer across the desk, a small glass of mint tea on the desk, a window in the upper right quarter with soft natural daylight and a glimpse of a whitewashed wall outside, a simple bench along the back wall. Plain walls in warm white and sand tones, muted earth palette (dark olive #4F5B2E, terracotta #A64D29, sand #F1E8D8, muted blue #3E6A8A), soft shadows, calm and dignified atmosphere. No people, no text, no logos, no insignia, no flags, no weapons. Asset identifier: hintergrund-empfang",
+    "tool": "built-in image_gen",
+    "transparent_background": false
+  },
+  {
+    "slug": "hintergrund-gespraechsraum",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/hintergrund-gespraechsraum.png",
+    "prompt": "Semi-realistic illustration, 16:9, 1600×900 px. First-person view across a small round table in a quiet interview room of a Moroccan public office: two simple chairs, a jug of water and two glasses on the table, a green potted plant, a window in the upper right quarter with warm afternoon light and a soft curtain, a plain wall with a small framed geometric zellige-pattern tile. Warm, private, safe atmosphere; muted earth palette (dark olive #4F5B2E, terracotta #A64D29, sand #F1E8D8, muted blue #3E6A8A), soft shadows. No people, no text, no logos, no insignia, no weapons. Asset identifier: hintergrund-gespraechsraum",
+    "tool": "built-in image_gen",
+    "transparent_background": false
+  },
+  {
+    "slug": "hintergrund-olivenhain",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/hintergrund-olivenhain.png",
+    "prompt": "Semi-realistic illustration, 16:9, 1600×900 px, calm still image. An olive grove on gentle hills in the Middle Atlas near Sefrou, Morocco, in soft morning light: rows of silver-green olive trees in the foreground, terraced fields, a small village of simple earth-coloured houses in the distance, a dirt path leading into the grove, light haze over the hills. Muted earth palette (olive, sand, terracotta, soft blue sky), soft shadows, quiet and dignified mood, suitable as a background for a memory. No people, no text, no logos. Asset identifier: hintergrund-olivenhain",
+    "tool": "built-in image_gen",
+    "transparent_background": false
+  },
+  {
+    "slug": "khadija-ausdruecke",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/khadija-ausdruecke.png",
+    "prompt": "Character expression sheet of one and the same woman, Khadija, 41, an Amazigh woman from a village in the Middle Atlas near Sefrou, Morocco: headscarf with a subtle olive-branch pattern in muted olive and sand tones, simple long everyday tunic in terracotta-brown, warm brown skin, alert dark eyes, a few fine lines around the eyes, strong but gentle face. Semi-realistic illustration with soft shadows. 4×2 grid of equal panels; in every panel the identical woman, identical outfit, identical lighting and proportions, shown from the knees up, standing, centred, same size and same baseline at the bottom of each panel, plain very light background. Expressions: 1 neutral and calm, looking directly at the viewer; 2 friendly, slight warm smile, eye contact; 3 sad but composed, eyes slightly moist, still looking at the viewer; 4 thoughtful, gaze slightly down to the left; 5 worried, brows drawn together, eye contact; 6 unsure, one hand holding the edge of her headscarf, glancing briefly aside; 7 composed and confident years later, upright posture, calm direct eye contact; 8 neutral with eyes closed (blink frame). Real, subtle human micro-expressions, natural eye contact, never exaggerated or cartoonish, dignified; no streaming tears, no injuries, no text, no labels. Production sprite sheet: use a genuinely transparent background instead of the plain light background. Exactly four columns and two rows, no grid lines, generous separation, no overlapping figures. Asset identifier: khadija-ausdruecke.",
+    "tool": "built-in image_gen",
+    "transparent_background": true
+  },
+  {
+    "slug": "khadija-sprechen",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/khadija-sprechen.png",
+    "prompt": "Second sheet of exactly the same character as the reference sheet 'khadija-ausdruecke' (use it as the reference image): Khadija, 41, olive-patterned headscarf, terracotta-brown tunic, identical face, outfit, lighting, proportions, framing (knees up, centred, same baseline), plain very light background. 4×2 grid, panels 1–7 repeat expressions 1–7 of the reference sheet (neutral, friendly, sad but composed, thoughtful, worried, unsure, composed and confident) but with the mouth slightly open mid-word as if speaking calmly, eyes and gaze direction unchanged (eye contact where the reference has eye contact); panel 8 empty. Semi-realistic illustration with soft shadows, subtle and natural, never exaggerated; no text, no labels. Use genuinely transparent background, no colored backdrop. Preserve reference identity precisely, four columns two rows.",
+    "tool": "built-in image_gen",
+    "transparent_background": true,
+    "reference_image": "khadija-ausdruecke.png"
+  },
+  {
+    "slug": "samira-ausdruecke",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/samira-ausdruecke.png",
+    "prompt": "Character expression sheet of one and the same woman, Samira Bennani, 52, an experienced Moroccan trainer of public-service staff: dark hair with some grey in a neat bun, dark-blue blazer without any insignia or badges, white blouse, reading glasses on a thin chain, calm upright posture, warm and serious face. Semi-realistic illustration with soft shadows. 4×2 grid of equal panels, identical person, outfit, lighting and proportions, shown from the knees up, standing, centred, same size and same baseline, plain very light background. Top row (rest): 1 neutral and attentive, direct eye contact; 2 warm, welcoming slight smile, eye contact; 3 thoughtful, gaze slightly down; 4 serious but kind, eye contact. Bottom row: 5–7 repeat 1, 2, 4 with the mouth slightly open as if speaking; 8 neutral with eyes closed (blink frame). Real, subtle micro-expressions, natural eye contact, dignified; no text, no labels, no institutional symbols. Genuinely transparent background, no colored backdrop. Asset identifier: samira-ausdruecke",
+    "tool": "built-in image_gen",
+    "transparent_background": true
+  },
+  {
+    "slug": "driss-ausdruecke",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/driss-ausdruecke.png",
+    "prompt": "Character expression sheet of one and the same man, Driss, about 55, an experienced Moroccan public-service officer: short grey beard, grey hair, beige service-style shirt without any insignia, badges or flags, slightly tired but friendly face. Semi-realistic illustration with soft shadows. 4×2 grid of equal panels, identical person, outfit, lighting and proportions, shown from the knees up, standing, centred, same size and same baseline, plain very light background. Top row (rest): 1 neutral, looking at the viewer; 2 sceptical, one eyebrow slightly raised, looking at the viewer; 3 thoughtful and slightly unsettled, gaze to the side; 4 friendly, mild smile. Bottom row: 5–7 repeat 1, 2, 4 with the mouth slightly open as if speaking; 8 neutral with eyes closed (blink frame). Real, subtle micro-expressions, never caricatured; he is not a villain; no text, no labels, no weapons. Genuinely transparent background, no colored backdrop. Asset identifier: driss-ausdruecke",
+    "tool": "built-in image_gen",
+    "transparent_background": true
+  },
+  {
+    "slug": "symbol-achten",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/symbol-achten.png",
+    "prompt": "Flat, minimalist icon, 1:1, 512×512 px, transparent background: an open, outstretched hand with the palm up, a gesture of respect and welcome, simple rounded shapes, single colour dark olive #4F5B2E with a subtle sand #F1E8D8 inner highlight, consistent line weight and corner radius with the other two icons of the set (shield, open door), no text, no outline frame. Genuinely transparent background, no colored backdrop. Asset identifier: symbol-achten",
+    "tool": "built-in image_gen",
+    "transparent_background": true
+  },
+  {
+    "slug": "symbol-schuetzen",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/symbol-schuetzen.png",
+    "prompt": "Flat, minimalist icon, 1:1, 512×512 px, transparent background: a simple rounded protective shield, calm and non-military (no weapons, no badges, no stars), single colour terracotta #A64D29 with a subtle sand #F1E8D8 inner highlight, consistent line weight and corner radius with the other two icons of the set (open hand, open door), no text, no outline frame. Genuinely transparent background, no colored backdrop. Asset identifier: symbol-schuetzen",
+    "tool": "built-in image_gen",
+    "transparent_background": true
+  },
+  {
+    "slug": "symbol-gewaehrleisten",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/symbol-gewaehrleisten.png",
+    "prompt": "Flat, minimalist icon, 1:1, 512×512 px, transparent background: a simple open door with warm light falling through it, a symbol of access and a next step, single colour muted blue #3E6A8A with a subtle sand #F1E8D8 light, consistent line weight and corner radius with the other two icons of the set (open hand, shield), no text, no outline frame. Genuinely transparent background, no colored backdrop. Asset identifier: symbol-gewaehrleisten",
+    "tool": "built-in image_gen",
+    "transparent_background": true
+  },
+  {
+    "slug": "titelbild",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/titelbild.png",
+    "prompt": "Semi-realistic illustration, 16:9, 1600×900 px, cover image for a training module: view across an officer's tidy desk towards an empty wooden chair bathed in warm morning light, a glass of mint tea on the desk, through a large window behind the chair an olive grove on gentle hills near Sefrou; a quiet sense of a promise and of someone about to arrive. Muted earth palette (dark olive #4F5B2E, terracotta #A64D29, sand #F1E8D8, muted blue #3E6A8A), soft shadows, hopeful, respectful, dignified mood. Leave calm empty space on the left third for a title overlay. No people, no text, no logos, no insignia, no flags, no weapons. Asset identifier: titelbild",
+    "tool": "built-in image_gen",
+    "transparent_background": false
+  },
+  {
+    "slug": "hintergrund-kooperative",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/hintergrund-kooperative.png",
+    "prompt": "Semi-realistic illustration, 16:9, 1600×900 px. Bright, orderly room of a rural women's olive-oil cooperative in the Middle Atlas, Morocco: a large wooden work table with neatly arranged bottles of olive oil, shelves with labelled jars seen from afar so that no writing is legible, woven baskets, a window with daylight over the olive hills, a few chairs arranged as for a small meeting. Warm, confident, hopeful atmosphere; muted earth palette (olive, sand, terracotta, soft blue), soft shadows. No people, no legible text, no logos. Asset identifier: hintergrund-kooperative",
+    "tool": "built-in image_gen",
+    "transparent_background": false
+  },
+  {
+    "slug": "hintergrund-stadt-schule",
+    "path": "materials/1-menschen-und-frauenrechte/assets/images/hintergrund-stadt-schule.png",
+    "prompt": "Semi-realistic illustration, 16:9, 1600×900 px. A calm street in a mid-sized Moroccan town in the morning: the entrance gate of a simple secondary school with a small courtyard and a tree, whitewashed and ochre walls, a few closed shop shutters, long soft shadows, clear sky. Quiet, hopeful mood of a new beginning; muted earth palette (sand, terracotta, olive, soft blue), soft shadows. No people, no legible text or signs, no logos, no flags. Asset identifier: hintergrund-stadt-schule",
+    "tool": "built-in image_gen",
+    "transparent_background": false
+  }
+]

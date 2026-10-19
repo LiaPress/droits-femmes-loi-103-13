@@ -1,0 +1,75 @@
+{
+  "errors": [],
+  "cases": [
+    {
+      "who": "samira",
+      "pose": "erklaeren",
+      "state": "sprechen",
+      "expression": "erklaeren",
+      "sprites": 5
+    },
+    {
+      "who": "samira",
+      "pose": "erklaeren",
+      "state": "blinzeln",
+      "expression": "erklaeren",
+      "sprites": 5
+    },
+    {
+      "who": "khadija",
+      "pose": "ellenbogen-traenen",
+      "state": "sprechen",
+      "expression": "ellenbogen-traenen",
+      "sprites": 5
+    },
+    {
+      "who": "khadija",
+      "pose": "ellenbogen-traenen",
+      "state": "blinzeln",
+      "expression": "ellenbogen-traenen",
+      "sprites": 5
+    },
+    {
+      "who": "kollege",
+      "pose": "telefon",
+      "state": "sprechen",
+      "expression": "telefon",
+      "sprites": 5
+    },
+    {
+      "who": "kollege",
+      "pose": "telefon",
+      "state": "blinzeln",
+      "expression": "telefon",
+      "sprites": 5
+    }
+  ],
+  "reduced": {
+    "motion": {
+      "id": "samira",
+      "expression": "notiz-verweisen",
+      "mouth": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "eye": [
+        1,
+        0,
+        0
+      ],
+      "speaking": false,
+      "target": 0,
+      "time": 600,
+      "scale": [
+        1.494140625,
+        1.494140625
+      ],
+      "rotation": 0
+    },
+    "enabled": true,
+    "shade": 0.5
+  }
+}

@@ -1,0 +1,687 @@
+{
+  "parserErrors": [],
+  "paths": 16,
+  "failures": [],
+  "results": [
+    {
+      "role": "Rachid",
+      "bits": 0,
+      "ending": "e1_beraterin",
+      "expected": "e1_beraterin",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 0
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 0
+        },
+        {
+          "label": "d2a",
+          "choice": 0
+        },
+        {
+          "label": "d3a",
+          "choice": 0
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe",
+        "khadija:zugehoert",
+        "khadija:traurig",
+        "samira:notiz-verweisen",
+        "khadija:traurig",
+        "samira:notiz-verweisen",
+        "khadija:beraterin",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Rachid",
+      "bits": 1,
+      "ending": "e2_eigener_weg",
+      "expected": "e2_eigener_weg",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 0
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 0
+        },
+        {
+          "label": "d2a",
+          "choice": 0
+        },
+        {
+          "label": "d3a",
+          "choice": 1
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe",
+        "khadija:zugehoert",
+        "khadija:traurig",
+        "samira:notiz-verweisen",
+        "khadija:traurig",
+        "khadija:zugehoert-gefasst",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Rachid",
+      "bits": 2,
+      "ending": "e2_eigener_weg",
+      "expected": "e2_eigener_weg",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 0
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 0
+        },
+        {
+          "label": "d2a",
+          "choice": 1
+        },
+        {
+          "label": "d3b",
+          "choice": 0
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe",
+        "khadija:zugehoert",
+        "khadija:traurig",
+        "samira:notiz-verweisen",
+        "khadija:besorgt",
+        "kollege:telefon",
+        "khadija:ellenbogen",
+        "kollege:neutral",
+        "khadija:ellenbogen-traurig",
+        "samira:notiz-verweisen",
+        "khadija:zugehoert-gefasst",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Rachid",
+      "bits": 3,
+      "ending": "e3_spaet",
+      "expected": "e3_spaet",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 0
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 0
+        },
+        {
+          "label": "d2a",
+          "choice": 1
+        },
+        {
+          "label": "d3b",
+          "choice": 1
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe",
+        "khadija:zugehoert",
+        "khadija:traurig",
+        "samira:notiz-verweisen",
+        "khadija:besorgt",
+        "kollege:telefon",
+        "khadija:ellenbogen",
+        "kollege:neutral",
+        "khadija:ellenbogen-traurig",
+        "khadija:gefasst",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Rachid",
+      "bits": 4,
+      "ending": "e2_eigener_weg",
+      "expected": "e2_eigener_weg",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 0
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 1
+        },
+        {
+          "label": "d2b",
+          "choice": 0
+        },
+        {
+          "label": "d3c",
+          "choice": 0
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe-traurig",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe-traurig",
+        "samira:notiz-verweisen",
+        "khadija:zugehoert-gefasst",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Rachid",
+      "bits": 5,
+      "ending": "e3_spaet",
+      "expected": "e3_spaet",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 0
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 1
+        },
+        {
+          "label": "d2b",
+          "choice": 0
+        },
+        {
+          "label": "d3c",
+          "choice": 1
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe-traurig",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe-traurig",
+        "khadija:gefasst",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Rachid",
+      "bits": 6,
+      "ending": "e3_spaet",
+      "expected": "e3_spaet",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 0
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 1
+        },
+        {
+          "label": "d2b",
+          "choice": 1
+        },
+        {
+          "label": "d3d",
+          "choice": 0
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe-traurig",
+        "samira:notiz-verweisen",
+        "khadija:aufbruch",
+        "samira:notiz-verweisen",
+        "khadija:gefasst",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Rachid",
+      "bits": 7,
+      "ending": "e4_schweigen",
+      "expected": "e4_schweigen",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 0
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 1
+        },
+        {
+          "label": "d2b",
+          "choice": 1
+        },
+        {
+          "label": "d3d",
+          "choice": 1
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe-traurig",
+        "samira:notiz-verweisen",
+        "khadija:aufbruch",
+        "khadija:ellenbogen-traurig",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Nadia",
+      "bits": 0,
+      "ending": "e1_beraterin",
+      "expected": "e1_beraterin",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 1
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 0
+        },
+        {
+          "label": "d2a",
+          "choice": 0
+        },
+        {
+          "label": "d3a",
+          "choice": 0
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe",
+        "khadija:zugehoert",
+        "khadija:traurig",
+        "samira:notiz-verweisen",
+        "khadija:traurig",
+        "samira:notiz-verweisen",
+        "khadija:beraterin",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Nadia",
+      "bits": 1,
+      "ending": "e2_eigener_weg",
+      "expected": "e2_eigener_weg",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 1
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 0
+        },
+        {
+          "label": "d2a",
+          "choice": 0
+        },
+        {
+          "label": "d3a",
+          "choice": 1
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe",
+        "khadija:zugehoert",
+        "khadija:traurig",
+        "samira:notiz-verweisen",
+        "khadija:traurig",
+        "khadija:zugehoert-gefasst",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Nadia",
+      "bits": 2,
+      "ending": "e2_eigener_weg",
+      "expected": "e2_eigener_weg",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 1
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 0
+        },
+        {
+          "label": "d2a",
+          "choice": 1
+        },
+        {
+          "label": "d3b",
+          "choice": 0
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe",
+        "khadija:zugehoert",
+        "khadija:traurig",
+        "samira:notiz-verweisen",
+        "khadija:besorgt",
+        "kollege:telefon",
+        "khadija:ellenbogen",
+        "kollege:neutral",
+        "khadija:ellenbogen-traurig",
+        "samira:notiz-verweisen",
+        "khadija:zugehoert-gefasst",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Nadia",
+      "bits": 3,
+      "ending": "e3_spaet",
+      "expected": "e3_spaet",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 1
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 0
+        },
+        {
+          "label": "d2a",
+          "choice": 1
+        },
+        {
+          "label": "d3b",
+          "choice": 1
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe",
+        "khadija:zugehoert",
+        "khadija:traurig",
+        "samira:notiz-verweisen",
+        "khadija:besorgt",
+        "kollege:telefon",
+        "khadija:ellenbogen",
+        "kollege:neutral",
+        "khadija:ellenbogen-traurig",
+        "khadija:gefasst",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Nadia",
+      "bits": 4,
+      "ending": "e2_eigener_weg",
+      "expected": "e2_eigener_weg",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 1
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 1
+        },
+        {
+          "label": "d2b",
+          "choice": 0
+        },
+        {
+          "label": "d3c",
+          "choice": 0
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe-traurig",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe-traurig",
+        "samira:notiz-verweisen",
+        "khadija:zugehoert-gefasst",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Nadia",
+      "bits": 5,
+      "ending": "e3_spaet",
+      "expected": "e3_spaet",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 1
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 1
+        },
+        {
+          "label": "d2b",
+          "choice": 0
+        },
+        {
+          "label": "d3c",
+          "choice": 1
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe-traurig",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe-traurig",
+        "khadija:gefasst",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Nadia",
+      "bits": 6,
+      "ending": "e3_spaet",
+      "expected": "e3_spaet",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 1
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 1
+        },
+        {
+          "label": "d2b",
+          "choice": 1
+        },
+        {
+          "label": "d3d",
+          "choice": 0
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe-traurig",
+        "samira:notiz-verweisen",
+        "khadija:aufbruch",
+        "samira:notiz-verweisen",
+        "khadija:gefasst",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    },
+    {
+      "role": "Nadia",
+      "bits": 7,
+      "ending": "e4_schweigen",
+      "expected": "e4_schweigen",
+      "steps": [
+        {
+          "label": "start",
+          "choice": 1
+        },
+        {
+          "label": "x2",
+          "choice": 0
+        },
+        {
+          "label": "d1",
+          "choice": 1
+        },
+        {
+          "label": "d2b",
+          "choice": 1
+        },
+        {
+          "label": "d3d",
+          "choice": 1
+        }
+      ],
+      "poses": [
+        "samira:begruessung",
+        "samira:neutral",
+        "khadija:schulmappe",
+        "samira:notiz-verweisen",
+        "khadija:schulmappe-traurig",
+        "samira:notiz-verweisen",
+        "khadija:aufbruch",
+        "khadija:ellenbogen-traurig",
+        "samira:rueckblick",
+        "samira:rueckblick"
+      ]
+    }
+  ]
+}

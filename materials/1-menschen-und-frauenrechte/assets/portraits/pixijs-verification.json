@@ -1,0 +1,6176 @@
+{
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x19c001ae000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+    "[.WebGL-0x19c001ae000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+    "[.WebGL-0x19c001ae000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels",
+    "[.WebGL-0x19c001ae000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)"
+  ],
+  "observations": [
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 0,
+        "time": 2399.9,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 2799.9000000000005,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 2033.3000000000002,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 2566.6,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 2966.6000000000004,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 2200,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          0,
+          0,
+          1
+        ],
+        "speaking": true,
+        "target": 1,
+        "time": 2733.1,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3133.1000000000004,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 2366.5,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 2899.9,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3299.9000000000005,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 2533.3,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3066.6,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3466.6000000000004,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 2700,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 3,
+        "time": 3216.4999999999995,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3616.5,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 2849.8999999999996,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3383.1999999999994,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3783.2,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          0.5339999999999964,
+          0.46600000000000363,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3016.5999999999995,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 2,
+        "time": 3549.7999999999997,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3949.8,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3183.2,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3716.4999999999995,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 4116.5,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3349.8999999999996,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3883.1999999999994,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 4283.2,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3516.5999999999995,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 0,
+        "time": 4066.4999999999995,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 4466.5,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3699.8999999999996,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 4216.4,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 4616.400000000001,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3849.8,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 4366.499999999999,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 4766.5,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 3999.8999999999996,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 1,
+        "time": 6283,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 6683.000000000001,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 5916.400000000001,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 6449.699999999999,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 6849.7,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 6083.099999999999,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 2,
+        "time": 6633.0999999999985,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7033.099999999999,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 6266.499999999999,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 1,
+        "time": 6766.399999999998,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7166.399999999999,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 6399.799999999998,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 6916.299999999997,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7316.299999999998,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 6549.699999999998,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 3,
+        "time": 7066.399999999998,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7466.399999999999,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 6699.799999999998,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 1,
+        "time": 7216.299999999997,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7616.299999999998,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          0,
+          0,
+          1
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 6849.699999999998,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7366.399999999998,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7766.399999999999,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 6999.799999999998,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 2,
+        "time": 7516.299999999997,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7916.299999999998,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7149.699999999998,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7682.999999999998,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8082.999999999999,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7316.399999999999,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7832.999999999998,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8233,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7466.399999999999,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 2,
+        "time": 7999.699999999999,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          0,
+          0,
+          1
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8399.7,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7633.099999999999,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8082.999999999998,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          0.5320000000000072,
+          0.46799999999999276,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8483,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7716.399999999999,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8166.399999999998,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8566.4,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7799.799999999998,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          0,
+          0,
+          1
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8266.299999999997,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8666.3,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 7899.699999999998,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 0,
+        "time": 8432.999999999998,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8833,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8066.399999999999,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 0,
+        "time": 8582.999999999998,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8983,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8216.399999999998,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8749.699999999999,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 9149.7,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8383.099999999999,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8816.299999999997,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 9216.3,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8449.699999999997,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": true,
+        "target": 0,
+        "time": 8916.299999999997,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 9316.3,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8549.699999999997,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 9099.699999999999,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 9499.7,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8733.099999999999,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ],
+    [
+      {
+        "id": "samira",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 9249.599999999999,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "khadija",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 9649.6,
+        "scale": [
+          1.494140625,
+          1.494140625
+        ],
+        "rotation": 0
+      },
+      {
+        "id": "kollege",
+        "expression": "neutral",
+        "mouth": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "eye": [
+          1,
+          0,
+          0
+        ],
+        "speaking": false,
+        "target": 0,
+        "time": 8882.999999999998,
+        "scale": [
+          1.23046875,
+          1.23046875
+        ],
+        "rotation": 0
+      }
+    ]
+  ],
+  "otherSpeakers": [
+    {
+      "id": "khadija",
+      "frames": [
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 11299.5,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 1,
+            "time": 11699.500000000002,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 10932.9,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 11449.5,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 2,
+            "time": 11849.500000000002,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 11082.9,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 11616.099999999999,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12016.1,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 11249.499999999998,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 11766.199999999999,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 0,
+            "time": 12166.2,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 11399.599999999999,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 11916.199999999999,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12316.2,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              0,
+              0,
+              1
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 11549.599999999999,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12016.099999999999,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12416.1,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              0.5319999999999709,
+              0.46800000000002906,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 11649.499999999998,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12116.099999999999,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              0,
+              0,
+              1
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12516.1,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 11749.499999999998,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12282.699999999999,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 3,
+            "time": 12682.7,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 11916.099999999999,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12449.399999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12849.4,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12082.799999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12616.099999999999,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 1,
+            "time": 13016.1,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12249.499999999998,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12749.399999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13149.4,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12382.799999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12899.399999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13299.4,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12532.799999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13049.399999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 2,
+            "time": 13449.4,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12682.799999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13182.699999999999,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13582.7,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12816.099999999999,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13349.399999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 1,
+            "time": 13749.4,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 12982.799999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13499.399999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 2,
+            "time": 13899.4,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13132.799999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13649.399999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 14049.4,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13282.799999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13766,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 14166.000000000002,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13399.4,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13882.699999999997,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 1,
+            "time": 14282.699999999999,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13516.099999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 14032.699999999997,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              0,
+              0,
+              0,
+              0,
+              1
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 4,
+            "time": 14432.699999999999,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13666.099999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 14149.399999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 0,
+            "time": 14549.4,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13782.799999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 14282.699999999997,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 2,
+            "time": 14682.699999999999,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 13916.099999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              0,
+              0,
+              1
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 14416.099999999999,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 0,
+            "time": 14816.1,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 14049.499999999998,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 14566,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 1,
+            "time": 14966.000000000002,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 14199.4,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ]
+      ]
+    },
+    {
+      "id": "kollege",
+      "frames": [
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 16949.199999999997,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17349.2,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 1,
+            "time": 16582.599999999995,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17082.6,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17482.600000000002,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 0,
+            "time": 16715.999999999996,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17232.5,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17632.500000000004,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 0,
+            "time": 16865.899999999998,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17382.6,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17782.600000000002,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17015.999999999996,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17515.899999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17915.9,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 0,
+            "time": 17149.299999999996,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17665.899999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18065.9,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17299.299999999996,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17815.899999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18215.9,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 1,
+            "time": 17449.299999999996,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17949.199999999997,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18349.2,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              0,
+              0,
+              0,
+              0,
+              1
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 4,
+            "time": 17582.599999999995,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18099.199999999997,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18499.2,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17732.599999999995,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18232.5,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18632.500000000004,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 1,
+            "time": 17865.899999999998,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              0,
+              0,
+              1
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18365.8,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18765.800000000003,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 17999.199999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18499.1,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18899.100000000002,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 0,
+            "time": 18132.499999999996,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18649.199999999997,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19049.2,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 0,
+            "time": 18282.599999999995,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18799.199999999997,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19199.2,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18432.599999999995,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18949.199999999997,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19349.2,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 2,
+            "time": 18582.599999999995,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19082.5,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19482.500000000004,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18715.899999999998,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19232.5,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19632.500000000004,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 18865.899999999998,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19365.8,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19765.800000000003,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 1,
+            "time": 18999.199999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19515.8,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19915.800000000003,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 2,
+            "time": 19149.199999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19649.199999999997,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 20049.2,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19282.599999999995,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19782.399999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 20182.4,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 1,
+            "time": 19415.799999999996,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19915.8,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 20315.800000000003,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19549.199999999997,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 20049.199999999997,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 20449.2,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              0,
+              0,
+              0,
+              1,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": true,
+            "target": 3,
+            "time": 19682.599999999995,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ],
+        [
+          {
+            "id": "samira",
+            "expression": "neutral",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 20182.399999999998,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "khadija",
+            "expression": "besorgt",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              0,
+              0,
+              1
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 20582.4,
+            "scale": [
+              1.494140625,
+              1.494140625
+            ],
+            "rotation": 0
+          },
+          {
+            "id": "kollege",
+            "expression": "nachdenklich",
+            "mouth": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ],
+            "eye": [
+              1,
+              0,
+              0
+            ],
+            "speaking": false,
+            "target": 0,
+            "time": 19815.799999999996,
+            "scale": [
+              1.23046875,
+              1.23046875
+            ],
+            "rotation": 0
+          }
+        ]
+      ]
+    }
+  ],
+  "parsed": {
+    "errors": [],
+    "characters": [
+      "samira",
+      "khadija",
+      "kollege",
+      "ich",
+      "gedanke"
+    ],
+    "nodes": 245
+  }
+}

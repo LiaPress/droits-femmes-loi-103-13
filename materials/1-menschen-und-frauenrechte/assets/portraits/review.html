@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="de">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sprechen und Blinzeln – Figurenprüfung</title>
+<style>
+body{margin:0;padding:24px;font:16px/1.5 system-ui,sans-serif;background:#FAF6EE;color:#2B2622}h1{font-size:1.5rem;margin:0}p{max-width:80ch}button,select{font:inherit;padding:7px 12px;border:1px solid #4F5B2E;border-radius:5px;background:white;color:inherit}button{cursor:pointer}button:focus-visible,select:focus-visible{outline:3px solid #3E6A8A}main{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;max-width:1400px}article{border:1px solid #d8cbb7;border-radius:10px;padding:12px;background:#F1E8D8}h2{font-size:1.15rem;margin:0 0 8px}canvas{width:100%;height:auto;display:block;background:#FAF6EE}footer{margin:18px 0}#status{min-height:1.5em}@media(max-width:700px){main{grid-template-columns:1fr}}
+</style>
+<h1>Sprechen und Blinzeln</h1>
+<p>Vergleichen Sie die Figuren in Ruhe und beim Sprechen. Die Gesichtsausdrücke lassen sich einzeln auswählen. Kopf, Frisur und Körper bleiben an derselben Stelle.</p>
+<p><button id="speech">Sprechen anhalten</button> <button id="blink">Einmal blinzeln</button> <button id="pause">Animation pausieren</button></p>
+<main id="figures"></main>
+<p id="status" role="status">Figuren werden geladen …</p>
+<footer>Die Mundbewegungen sind stilisiert; sie bilden keine exakte Lautsynchronisation ab.</footer>
+<script src="portrait-animation.js"></script>
+<script>
+(async function(){
+ const api=window.CoursePortraits,manifest=await api.manifest,players=[];
+ const names={khadija:'Khadija',samira:'Samira Bennani',driss:'Driss'};
+ const texts={khadija:'Ich will nur, dass meine Tochter zur Schule geht. Heute berate ich andere Frauen in unserer Kooperative.',samira:'Willkommen. Ich bin Samira Bennani. Achten, schützen und gewährleisten: Jede Entscheidung hat Folgen.',driss:'Hm. So habe ich das noch nicht gesehen. Wir nehmen die Gefährdung auf und hören aufmerksam zu.'};
+ const image=url=>new Promise((resolve,reject)=>{const i=new Image();i.onload=()=>resolve(i);i.onerror=()=>reject(Error(url));i.src=new URL(url,api.root).href;});
+ for(const [id,profile] of Object.entries(manifest.profiles)){
+  const article=document.createElement('article'),title=document.createElement('h2'),select=document.createElement('select'),canvas=document.createElement('canvas');
+  title.textContent=names[id];select.setAttribute('aria-label','Gesichtsausdruck von '+names[id]);
+  for(const expr of profile.expressions){const o=document.createElement('option');o.value=o.textContent=expr;select.append(o);}
+  canvas.width=448;canvas.height=512;canvas.setAttribute('role','img');canvas.setAttribute('aria-label',names[id]+' – Vorschau der Mund- und Lidbewegungen');
+  article.append(title,select,canvas);document.getElementById('figures').append(article);
+  const bodies=Object.fromEntries(await Promise.all(Object.entries(profile.bodies).map(async([k,u])=>[k,await image(u)])));
+  const player={id,profile,bodies,atlas:await image(profile.atlas),canvas,ctx:canvas.getContext('2d',{willReadFrequently:true}),expression:'neutral',motion:new api.Motion(id),speaking:true};
+  player.motion.line(texts[id]);
+  select.onchange=()=>{player.expression=select.value;draw(player);};player.select=select;
+  players.push(player);
+ }
+ function draw(p,forced){
+  const c=p.ctx,s=forced||p.motion.snapshot(),row=p.profile.expressions.indexOf(p.expression);
+  c.globalAlpha=1;c.fillStyle='#FAF6EE';c.fillRect(0,0,448,512);c.drawImage(p.bodies[p.expression],0,0);
+  for(let i=0;i<6;i++){
+   c.globalAlpha=i<4?s.mouth[i+1]:s.eye[i-3];
+   if(c.globalAlpha>.0001)c.drawImage(p.atlas,i*160,row*160,160,160,144,30,160,160);
+  }
+  c.globalAlpha=1;
+ }
+ let paused=false,speaking=true,previous=performance.now(),pulse=0;
+ function step(ms){
+  for(const p of players){if(p.speaking&&pulse%4===0)p.motion.talk(true);p.motion.update(ms);draw(p);}pulse++;
+ }
+ function loop(now){const ms=Math.min(50,now-previous);previous=now;if(!paused)step(ms);requestAnimationFrame(loop);}requestAnimationFrame(loop);
+ document.getElementById('speech').onclick=()=>{speaking=!speaking;for(const p of players){p.speaking=speaking;if(speaking)p.motion.line(texts[p.id]);else p.motion.stop();}document.getElementById('speech').textContent=speaking?'Sprechen anhalten':'Sprechen starten';};
+ document.getElementById('blink').onclick=()=>players.forEach(p=>p.motion.blink());
+ document.getElementById('pause').onclick=()=>{paused=!paused;document.getElementById('pause').textContent=paused?'Animation fortsetzen':'Animation pausieren';};
+ window.portraitPreview={players,draw,step,pause:()=>{paused=true;},resume:()=>{paused=false;},pose:(id,expr,mouth=0,eye=0)=>{const p=players.find(p=>p.id===id);p.expression=expr;p.select.value=expr;draw(p,{mouth:[0,0,0,0,0].map((_,i)=>+(i===mouth)),eye:[0,0,0].map((_,i)=>+(i===eye))});}};
+ players.forEach(p=>draw(p));document.getElementById('status').textContent='Alle Figuren sind bereit.';
+})().catch(e=>{document.getElementById('status').textContent='Vorschau konnte nicht geladen werden: '+e.message;console.error(e);});
+</script>
+</html>

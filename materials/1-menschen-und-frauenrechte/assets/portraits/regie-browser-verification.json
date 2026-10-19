@@ -1,0 +1,974 @@
+{
+  "parser": [],
+  "state": {
+    "id": "regiecheck",
+    "title": "Khadija – Modul 1",
+    "label": "x1_ende",
+    "done": true,
+    "ending": "e2_eigener_weg",
+    "endings": [
+      "e2_eigener_weg"
+    ],
+    "vars": {
+      "rolle": "Rachid",
+      "achten": 1,
+      "schuetzen": 0,
+      "gewaehrleisten": 1,
+      "vertiefung": 1
+    },
+    "path": [
+      "start",
+      "s1b",
+      "s2",
+      "x2",
+      "x2_gut",
+      "d1",
+      "s3a",
+      "notiz1",
+      "d2a",
+      "s4b",
+      "notiz2",
+      "d3b",
+      "s4b_ok",
+      "notiz3",
+      "ende",
+      "e2",
+      "rueckblick",
+      "x1",
+      "x1_ende"
+    ],
+    "choices": [
+      {
+        "label": "start",
+        "text": "Als Rachid – Gendarm, 49 Jahre, 23 Dienstjahre"
+      },
+      {
+        "label": "x2",
+        "text": "„Bedrohung ist keine Privatsache. Der Staat muss sie schützen.“"
+      },
+      {
+        "label": "d1",
+        "text": "Ich biete ihr einen ruhigen Platz und ein Gespräch in Tamazight an."
+      },
+      {
+        "label": "d2a",
+        "text": "Ich schlage ein Gespräch mit beiden vor – das klärt sich in der Familie."
+      },
+      {
+        "label": "d3b",
+        "text": "Ich spreche noch einmal allein mit ihr und sage ihr, wo sie Hilfe findet."
+      }
+    ]
+  },
+  "samples": [
+    {
+      "pc": 3,
+      "label": "start",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "neutral"
+        },
+        {
+          "id": "samira",
+          "expression": "begruessung"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 5,
+      "label": "start",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "neutral"
+        },
+        {
+          "id": "samira",
+          "expression": "erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 6,
+      "label": "start",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "neutral"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 7,
+      "label": "start",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "neutral"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 24,
+      "label": "s2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "neutral"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 27,
+      "label": "s2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 28,
+      "label": "s2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 29,
+      "label": "s2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 31,
+      "label": "s2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "skeptisch"
+        }
+      ]
+    },
+    {
+      "pc": 32,
+      "label": "s2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "skeptisch"
+        }
+      ]
+    },
+    {
+      "pc": 37,
+      "label": "x2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "skeptisch"
+        }
+      ]
+    },
+    {
+      "pc": 38,
+      "label": "x2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "skeptisch"
+        }
+      ]
+    },
+    {
+      "pc": 41,
+      "label": "x2_gut",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 48,
+      "label": "d1",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 50,
+      "label": "d1",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 59,
+      "label": "notiz1",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 60,
+      "label": "notiz1",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 61,
+      "label": "notiz1",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 62,
+      "label": "notiz1",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 71,
+      "label": "notiz1",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 74,
+      "label": "notiz1",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "zugehoert"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 77,
+      "label": "notiz1",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "zugehoert"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 79,
+      "label": "notiz1",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "zugehoert"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 82,
+      "label": "notiz1",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "traurig"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 85,
+      "label": "d2a",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "traurig"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 87,
+      "label": "d2a",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "traurig"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 114,
+      "label": "notiz2",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "traurig"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 115,
+      "label": "notiz2",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "traurig"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 116,
+      "label": "notiz2",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "traurig"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        }
+      ]
+    },
+    {
+      "pc": 151,
+      "label": "notiz2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "besorgt"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 153,
+      "label": "notiz2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "besorgt"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "telefon"
+        }
+      ]
+    },
+    {
+      "pc": 155,
+      "label": "notiz2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "ellenbogen"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "telefon"
+        }
+      ]
+    },
+    {
+      "pc": 156,
+      "label": "notiz2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traenen"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "telefon"
+        }
+      ]
+    },
+    {
+      "pc": 158,
+      "label": "notiz2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traenen"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 162,
+      "label": "d3b",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 164,
+      "label": "d3b",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 124,
+      "label": "notiz3",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 125,
+      "label": "notiz3",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 226,
+      "label": "e2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "zugehoert-gefasst"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 227,
+      "label": "e2",
+      "shade": 0,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "samira",
+          "expression": "notiz-erklaeren"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 248,
+      "label": "rueckblick",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "samira",
+          "expression": "rueckblick"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 250,
+      "label": "rueckblick",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "samira",
+          "expression": "rueckblick"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 252,
+      "label": "rueckblick",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "samira",
+          "expression": "rueckblick"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 254,
+      "label": "rueckblick",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "samira",
+          "expression": "rueckblick-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 16,
+      "label": "x1",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "samira",
+          "expression": "rueckblick-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 258,
+      "label": "x1_ende",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "samira",
+          "expression": "rueckblick-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 259,
+      "label": "x1_ende",
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "khadija",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "samira",
+          "expression": "rueckblick-freundlich"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "missing": [],
+  "captures": [
+    "begruessung",
+    "notiz-achten",
+    "anruf-driss",
+    "anruf-khadija",
+    "anruf-stille",
+    "rueckblick"
+  ],
+  "resets": {
+    "hidden": 0,
+    "restored": 0.4444444444444444,
+    "plain": 0,
+    "samiraBright": true
+  }
+}

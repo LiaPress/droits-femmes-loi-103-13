@@ -1,0 +1,182 @@
+[
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/khadija/neutral-talk.png",
+    "mouth": {
+      "cx": 225,
+      "cy": 121,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 896,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/khadija/freundlich-talk.png",
+    "mouth": {
+      "cx": 225,
+      "cy": 119,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 905,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/khadija/traurig-talk.png",
+    "mouth": {
+      "cx": 225,
+      "cy": 123,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 898,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/khadija/nachdenklich-talk.png",
+    "mouth": {
+      "cx": 201,
+      "cy": 144,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 923,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/khadija/besorgt-talk.png",
+    "mouth": {
+      "cx": 224,
+      "cy": 127,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 905,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/khadija/unsicher-talk.png",
+    "mouth": {
+      "cx": 240,
+      "cy": 127,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 919,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/khadija/gefasst-talk.png",
+    "mouth": {
+      "cx": 225,
+      "cy": 113,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 911,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/samira/neutral-talk.png",
+    "mouth": {
+      "cx": 225,
+      "cy": 133,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 915,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/samira/freundlich-talk.png",
+    "mouth": {
+      "cx": 234,
+      "cy": 138,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 908,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/samira/ernst-talk.png",
+    "mouth": {
+      "cx": 225,
+      "cy": 136,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 907,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/samira/nachdenklich-talk.png",
+    "mouth": {
+      "cx": 210,
+      "cy": 154,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 911,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/driss/neutral-talk.png",
+    "mouth": {
+      "cx": 225,
+      "cy": 151,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 925,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/driss/skeptisch-talk.png",
+    "mouth": {
+      "cx": 210,
+      "cy": 153,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 925,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/driss/freundlich-talk.png",
+    "mouth": {
+      "cx": 225,
+      "cy": 146,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 923,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  },
+  {
+    "file": "materials/1-menschen-und-frauenrechte/assets/images/figuren/driss/nachdenklich-talk.png",
+    "mouth": {
+      "cx": 200,
+      "cy": 147,
+      "rx": 25,
+      "ry": 12
+    },
+    "changedPixels": 917,
+    "outsideMouth": 0,
+    "alphaChanges": 0
+  }
+]

@@ -1,0 +1,1368 @@
+{
+  "parser": [],
+  "state": {
+    "id": "regiecheck",
+    "title": "Khadija – Modul 1",
+    "label": "x1_ende",
+    "done": true,
+    "ending": "e4_schweigen",
+    "endings": [
+      "e4_schweigen"
+    ],
+    "vars": {
+      "rolle": "Rachid",
+      "achten": 0,
+      "schuetzen": 0,
+      "gewaehrleisten": 0,
+      "vertiefung": 1
+    },
+    "path": [
+      "start",
+      "s1b",
+      "s2",
+      "x2",
+      "x2_gut",
+      "d1",
+      "s3b",
+      "notiz1",
+      "d2b",
+      "s4d",
+      "notiz2",
+      "d3d",
+      "ende",
+      "e4",
+      "rueckblick",
+      "x1",
+      "x1_ende"
+    ],
+    "choices": [
+      {
+        "label": "start",
+        "text": "Als Rachid – Gendarm, 49 Jahre, 23 Dienstjahre"
+      },
+      {
+        "label": "x2",
+        "text": "„Bedrohung ist keine Privatsache. Der Staat muss sie schützen.“"
+      },
+      {
+        "label": "d1",
+        "text": "Ich nehme ihre Angaben kurz am Schalter auf – die Schlange ist lang."
+      },
+      {
+        "label": "d2b",
+        "text": "Ich notiere den Besuch und rate ihr, erst mit der Familie zu sprechen."
+      },
+      {
+        "label": "d3d",
+        "text": "Ich wünsche ihr alles Gute – mehr kann ich hier nicht tun."
+      }
+    ]
+  },
+  "samples": [
+    {
+      "pc": 3,
+      "label": "start",
+      "text": "Willkommen. Ich bin Samira Bennani. Angefangen habe ich im Streifendienst, heute bilde ich Kolleginnen und Kollegen aus.",
+      "visual": {
+        "samira": {
+          "x": 0.5,
+          "expr": "begruessung"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "begruessung"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        },
+        {
+          "id": "khadija",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 5,
+      "label": "start",
+      "text": "In diesem Modul begleiten Sie eine Frau, die vor einigen Jahren zu uns auf die Wache kam. Sie heißt Khadija. Ihre Geschichte ist erfunden – zusammengesetzt aus vielen echten Erfahrungen.",
+      "visual": {
+        "samira": {
+          "x": 0.5,
+          "expr": "neutral"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "neutral"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        },
+        {
+          "id": "khadija",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 6,
+      "label": "start",
+      "text": "Es geht um Gewalt in der Familie. Gezeigt wird keine Gewalt. Wenn Ihnen etwas zu nahe geht, halten Sie einfach an – die Geschichte wartet auf Sie.",
+      "visual": {
+        "samira": {
+          "x": 0.5,
+          "expr": "ernst"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        },
+        {
+          "id": "khadija",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 7,
+      "label": "start",
+      "text": "Sie treffen drei Entscheidungen. Jede hat Folgen für Khadija. In welcher Rolle tun Sie heute Dienst?",
+      "visual": {
+        "samira": {
+          "x": 0.5,
+          "expr": "ernst"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        },
+        {
+          "id": "khadija",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 24,
+      "label": "s2",
+      "text": "Sie sind Rachid und sitzen am Empfang. Hinter Ihnen sortiert Ihr Kollege Driss Akten.",
+      "visual": {},
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        },
+        {
+          "id": "khadija",
+          "expression": "neutral"
+        }
+      ]
+    },
+    {
+      "pc": 27,
+      "label": "s2",
+      "text": "Es war ein Dienstag im Herbst. Ich hatte die Schulpapiere meiner Tochter dabei. Sie sollte in die Stadt zur Schule – und er war dagegen.",
+      "visual": {
+        "kollege": {
+          "x": 0.12
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 28,
+      "label": "s2",
+      "text": "Ich war noch nie auf einer Wache. Wer dort gesehen wird, über den reden sie im Dorf. Ich sprach Tamazight, nur wenig Darija.",
+      "visual": {
+        "kollege": {
+          "x": 0.12
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 29,
+      "label": "s2",
+      "text": "Gibt es hier eine Frau, mit der ich sprechen kann?",
+      "visual": {
+        "kollege": {
+          "x": 0.12
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "neutral"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 31,
+      "label": "s2",
+      "text": "Familiensache. Das regeln die bei sich zu Hause.",
+      "visual": {
+        "kollege": {
+          "x": 0.12,
+          "expr": "skeptisch"
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "skeptisch"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 32,
+      "label": "s2",
+      "text": "Wir zwei wissen doch, wie das in den Dörfern läuft.",
+      "visual": {
+        "kollege": {
+          "x": 0.12,
+          "expr": "skeptisch"
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "skeptisch"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 37,
+      "label": "x2",
+      "text": "Mal ehrlich – wir sind keine Sozialarbeiter. Was in einer Familie passiert, geht uns nichts an.",
+      "visual": {
+        "kollege": {
+          "x": 0.12,
+          "expr": "skeptisch"
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "skeptisch"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 38,
+      "label": "x2",
+      "text": "Was antworten Sie Driss?",
+      "visual": {
+        "kollege": {
+          "x": 0.12,
+          "expr": "skeptisch"
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "skeptisch"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 41,
+      "label": "x2_gut",
+      "text": "Hm. So habe ich das noch nicht gesehen.",
+      "visual": {
+        "kollege": {
+          "x": 0.12,
+          "expr": "nachdenklich"
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 48,
+      "label": "d1",
+      "text": "Vor Jahren stand schon einmal eine Frau hier. Du hast sie nach Hause geschickt.",
+      "visual": {
+        "kollege": {
+          "x": 0.12,
+          "expr": "nachdenklich"
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 50,
+      "label": "d1",
+      "text": "Khadija steht vor Ihrem Schreibtisch. Was tun Sie?",
+      "visual": {
+        "kollege": {
+          "x": 0.12,
+          "expr": "nachdenklich"
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 59,
+      "label": "notiz1",
+      "text": "Marokko hat es sich selbst versprochen: In der Verfassung von 2011, Artikel 19, haben Frauen und Männer die gleichen Rechte und Freiheiten.",
+      "visual": {
+        "kollege": {
+          "x": 0.12,
+          "expr": "nachdenklich"
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        },
+        "achten_symbol": {
+          "x": 0.58
+        },
+        "samira": {
+          "x": 0.73,
+          "expr": "notiz-verweisen"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 60,
+      "label": "notiz1",
+      "text": "Schon 1979 hat Marokko die beiden UN-Pakte über die Menschenrechte ratifiziert.",
+      "visual": {
+        "kollege": {
+          "x": 0.12,
+          "expr": "nachdenklich"
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        },
+        "achten_symbol": {
+          "x": 0.58
+        },
+        "samira": {
+          "x": 0.73,
+          "expr": "notiz-verweisen"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 61,
+      "label": "notiz1",
+      "text": "Und international: Nach Artikel 2 der Allgemeinen Erklärung der Menschenrechte gelten diese Rechte ohne Unterschied – auch nicht nach Geschlecht oder Sprache.",
+      "visual": {
+        "kollege": {
+          "x": 0.12,
+          "expr": "nachdenklich"
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        },
+        "achten_symbol": {
+          "x": 0.58
+        },
+        "samira": {
+          "x": 0.73,
+          "expr": "notiz-verweisen"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 62,
+      "label": "notiz1",
+      "text": "Achten heißt: Wir selbst benachteiligen niemanden. Auch nicht, weil jemand unsere Sprache nicht spricht.",
+      "visual": {
+        "kollege": {
+          "x": 0.12,
+          "expr": "nachdenklich"
+        },
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe",
+          "idle": "none"
+        },
+        "achten_symbol": {
+          "x": 0.58
+        },
+        "samira": {
+          "x": 0.73,
+          "expr": "notiz-verweisen"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 96,
+      "label": "notiz1",
+      "text": "Der Stuhl vor Ihrem Schreibtisch ist leer. Daneben steht ein halb volles Glas Tee.",
+      "visual": {},
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 97,
+      "label": "notiz1",
+      "text": "Ich bin gegangen. Am Schalter, vor all den Leuten, konnte ich nicht sagen, was los war.",
+      "visual": {},
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 98,
+      "label": "notiz1",
+      "text": "Drei Wochen später kam ich wieder. Diesmal früh am Morgen, als niemand da war.",
+      "visual": {},
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe"
+        }
+      ]
+    },
+    {
+      "pc": 100,
+      "label": "notiz1",
+      "text": "Er nimmt mir das Geld aus der Kooperative ab. Und er sagt, ich sehe meine Tochter nie wieder, wenn ich gehe.",
+      "visual": {
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe-traurig"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 103,
+      "label": "d2b",
+      "text": "Versöhnung – das hast du immer für den klügsten Weg gehalten.",
+      "visual": {
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe-traurig"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 105,
+      "label": "d2b",
+      "text": "Khadija ist zurückgekommen. Was tun Sie?",
+      "visual": {
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe-traurig"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 114,
+      "label": "notiz2",
+      "text": "1993 ist Marokko der Frauenrechtskonvention der Vereinten Nationen beigetreten. Artikel 2 verpflichtet den Staat, Diskriminierung von Frauen auch durch Privatpersonen zu beseitigen. Wie Marokko diesen Artikel versteht, hat es in einer eigenen Erklärung festgehalten – mehr dazu in der Vertiefung.",
+      "visual": {
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe-traurig"
+        },
+        "schuetzen_symbol": {
+          "x": 0.58
+        },
+        "samira": {
+          "x": 0.73,
+          "expr": "notiz-verweisen"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 115,
+      "label": "notiz2",
+      "text": "2011 hat Marokko eine frühere Einschränkung zu Artikel 16 aufgehoben – dem Artikel über Ehe und Familie. Fachleute nennen so eine Einschränkung „Vorbehalt“. Die Familie ist kein rechtsfreier Raum.",
+      "visual": {
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe-traurig"
+        },
+        "schuetzen_symbol": {
+          "x": 0.58
+        },
+        "samira": {
+          "x": 0.73,
+          "expr": "notiz-verweisen"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 116,
+      "label": "notiz2",
+      "text": "Schützen heißt: Wir handeln, auch wenn die Gefahr aus der eigenen Familie kommt.",
+      "visual": {
+        "khadija": {
+          "x": 0.5,
+          "expr": "schulmappe-traurig"
+        },
+        "schuetzen_symbol": {
+          "x": 0.58
+        },
+        "samira": {
+          "x": 0.73,
+          "expr": "notiz-verweisen-ernst"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "schulmappe-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 194,
+      "label": "notiz2",
+      "text": "Sie notieren den Besuch. Khadija nickt, steckt die Schulpapiere wieder ein und wendet sich zur Tür.",
+      "visual": {
+        "khadija": {
+          "x": 0.5,
+          "expr": "aufbruch",
+          "flip": true
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "aufbruch"
+        }
+      ]
+    },
+    {
+      "pc": 198,
+      "label": "d3d",
+      "text": "Wieder eine, die zur Tür geht.",
+      "visual": {
+        "khadija": {
+          "x": 0.27,
+          "expr": "aufbruch",
+          "flip": true
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "aufbruch"
+        }
+      ]
+    },
+    {
+      "pc": 200,
+      "label": "d3d",
+      "text": "Khadija ist schon an der Tür. Was tun Sie?",
+      "visual": {
+        "khadija": {
+          "x": 0.27,
+          "expr": "aufbruch",
+          "flip": true
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "aufbruch"
+        }
+      ]
+    },
+    {
+      "pc": 241,
+      "label": "e4",
+      "text": "Ich bin zurückgegangen. Ich habe geschwiegen. Meine Tochter fragt mich heute, warum.",
+      "visual": {
+        "khadija": {
+          "x": 0.5,
+          "expr": "ellenbogen-traurig"
+        }
+      },
+      "shade": 0,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "notiz-verweisen-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 248,
+      "label": "rueckblick",
+      "text": "Schauen wir zurück.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 250,
+      "label": "rueckblick",
+      "text": "Achten: verfehlt.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick-verweisen"
+        },
+        "achten_symbol": {
+          "x": 0.58
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 251,
+      "label": "rueckblick",
+      "text": "Achten heißt: Wir selbst benachteiligen niemanden – auch nicht wegen ihrer Sprache. So steht es in Marokkos Verfassung von 2011 und in der Allgemeinen Erklärung der Menschenrechte.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick-verweisen"
+        },
+        "achten_symbol": {
+          "x": 0.58
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 254,
+      "label": "rueckblick",
+      "text": "Schützen: verfehlt.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick-verweisen"
+        },
+        "schuetzen_symbol": {
+          "x": 0.58
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 255,
+      "label": "rueckblick",
+      "text": "Schützen heißt: Wir handeln, auch wenn die Gefahr aus der eigenen Familie kommt. Dazu hat sich Marokko mit der Frauenrechtskonvention verpflichtet.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick-verweisen"
+        },
+        "schuetzen_symbol": {
+          "x": 0.58
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 258,
+      "label": "rueckblick",
+      "text": "Gewährleisten: verfehlt.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick-verweisen"
+        },
+        "gewaehrleisten_symbol": {
+          "x": 0.58
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 259,
+      "label": "rueckblick",
+      "text": "Gewährleisten heißt: Die Rechte müssen bei der Frau ankommen – mit Information in ihrer Sprache und einem nächsten Schritt.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick-verweisen"
+        },
+        "gewaehrleisten_symbol": {
+          "x": 0.58
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick-verweisen"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 262,
+      "label": "rueckblick",
+      "text": "Wer zögert oder zurückweicht, hat oft Angst. Angst ist kein Zeichen von Unsicherheit – sie braucht Schutz, keinen Aufschub.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 263,
+      "label": "rueckblick",
+      "text": "Dass Khadija lange allein blieb, war nicht ihr Versagen. Die Hilfe hat gefehlt.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick-ernst"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 264,
+      "label": "rueckblick",
+      "text": "„Das regelt die Familie“ – das haben viele von uns gelernt. Alte Gewohnheiten sind stark. Die Pflicht ist stärker.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick-ernst"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 16,
+      "label": "x1",
+      "text": "Marokko hat sich selbst verpflichtet. Eingelöst wird diese Verpflichtung an einem Schreibtisch – an Ihrem.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick-ernst"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 268,
+      "label": "x1_ende",
+      "text": "Khadijas Geschichte ist erfunden. Die Schreibtische sind echt. Sie können jederzeit neu beginnen und einen anderen Weg gehen.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick-ernst"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick-ernst"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    },
+    {
+      "pc": 269,
+      "label": "x1_ende",
+      "text": "Und wenn Sie selbst Gewalt erleben oder erlebt haben: Sie sind nicht allein. Vertrauliche Unterstützung bietet der psychologische Dienst Ihrer Institution, außerdem helfen Beratungsstellen für Frauen.",
+      "visual": {
+        "samira": {
+          "x": 0.73,
+          "expr": "rueckblick-freundlich"
+        }
+      },
+      "shade": 0.5,
+      "actors": [
+        {
+          "id": "samira",
+          "expression": "rueckblick-freundlich"
+        },
+        {
+          "id": "kollege",
+          "expression": "nachdenklich"
+        },
+        {
+          "id": "khadija",
+          "expression": "ellenbogen-traurig"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "missing": [],
+  "captures": [
+    "begruessung",
+    "notiz-achten",
+    "notiz-schuetzen",
+    "tuer-links",
+    "rueckblick",
+    "rueckblick-achten",
+    "rueckblick-schuetzen",
+    "rueckblick-gewaehrleisten"
+  ],
+  "resets": {
+    "hidden": 0,
+    "restored": 0.5,
+    "plain": 0,
+    "samiraBright": true
+  }
+}
