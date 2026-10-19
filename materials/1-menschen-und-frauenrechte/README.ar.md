@@ -6,12 +6,12 @@ language: ar
 dir:      rtl
 narrator: Arabic Female
 comment:  الوحدة 1 من دورة «Droits humains, droits des femmes et Loi 103-13» – حقوق الإنسان وحقوق المرأة بوصفها التزامًا قطعه المغرب على نفسه. نسخة تمهيدية مترجمة عن الألمانية (مسودة ترجمة، تحتاج إلى مراجعة).
-import:   https://raw.githubusercontent.com/LiaTemplates/pixijs/0.5.0/README.md
+import:   https://raw.githubusercontent.com/LiaTemplates/pixijs/0.5.1/README.md
 script:   ./assets/portraits/portrait-animation.js
 
-translation: الفرنسية   ./README.fr.md
-translation: الألمانية  ./README.md
-translation: الإنجليزية ./README.en.md
+translation: الفرنسية   README.fr.md
+translation: الألمانية  README.md
+translation: الإنجليزية README.en.md
 -->
 
 # حقوق الإنسان وحقوق المرأة
@@ -51,9 +51,9 @@ bg   stadt       assets/images/hintergrund-stadt-schule.png   alt="شارع ها
 image achten_symbol        assets/images/symbol-achten.png        type=courseimage height=0.24 y=0.39 alt="رمز الاحترام: يد مفتوحة"
 image schuetzen_symbol     assets/images/symbol-schuetzen.png     type=courseimage height=0.24 y=0.39 alt="رمز الحماية: درع"
 image gewaehrleisten_symbol assets/images/symbol-gewaehrleisten.png type=courseimage height=0.24 y=0.39 alt="رمز الضمان: باب مفتوح يدخل منه الضوء"
-char samira  "سميرة بناني" type=courseportrait portrait=samira height=0.85 idle=none color=#2f6f8f voice="ar"
-char khadija "خديجة" type=courseportrait portrait=khadija height=0.85 idle=none color=#7a8b3a voice="ar" pitch=1.1
-char kollege "الزميل إدريس" type=courseportrait portrait=driss height=0.7 idle=none color=#8a7a5a voice="ar" pitch=0.85
+char samira  "سميرة بناني" type=courseportrait portrait=samira height=0.85 idle=none color=#2f6f8f voice="ar-MA Female"
+char khadija "خديجة" type=courseportrait portrait=khadija height=0.85 idle=none color=#7a8b3a voice="ar-MA Female" pitch=1.1
+char kollege "الزميل إدريس" type=courseportrait portrait=driss height=0.7 idle=none color=#8a7a5a voice="ar-MA Male" pitch=0.85
 char ich     "أنت"                 base:man color=#555555 voice="ar" pitch=0.95
 char gedanke "فكرتك"               base:man color=#999999 voice="ar" rate=0.9
 var rolle = ""

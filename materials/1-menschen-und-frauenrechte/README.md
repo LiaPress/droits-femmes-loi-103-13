@@ -5,12 +5,12 @@ version:  0.1.0
 language: de
 narrator: Deutsch Female
 comment:  Modul 1 des Kurses „Droits humains, droits des femmes et Loi 103-13“ – Menschen- und Frauenrechte als Verpflichtung, die Marokko selbst eingegangen ist. Teaser-Fassung, zunächst auf Deutsch.
-import:   https://raw.githubusercontent.com/LiaTemplates/pixijs/0.5.0/README.md
+import:   https://raw.githubusercontent.com/LiaTemplates/pixijs/0.5.1/README.md
 script:   ./assets/portraits/portrait-animation.js
 
-translation: Arabisch    ./README.ar.md
-translation: Englisch    ./README.en.md
-translation: Französisch ./README.fr.md
+translation: Arabisch    README.ar.md
+translation: Englisch    README.en.md
+translation: Französisch README.fr.md
               
 -->
 
@@ -51,9 +51,9 @@ bg   stadt       assets/images/hintergrund-stadt-schule.png   alt="Eine ruhige S
 image achten_symbol        assets/images/symbol-achten.png        type=courseimage height=0.24 y=0.39 alt="Symbol für achten: eine offene Hand"
 image schuetzen_symbol     assets/images/symbol-schuetzen.png     type=courseimage height=0.24 y=0.39 alt="Symbol für schützen: ein Schutzschild"
 image gewaehrleisten_symbol assets/images/symbol-gewaehrleisten.png type=courseimage height=0.24 y=0.39 alt="Symbol für gewährleisten: eine offene Tür mit Licht"
-char samira  "Samira Bennani" type=courseportrait portrait=samira height=0.85 idle=none color=#2f6f8f voice="de-DE"
-char khadija "Khadija" type=courseportrait portrait=khadija height=0.85 idle=none color=#7a8b3a voice="de-DE" pitch=1.1
-char kollege "Kollege Driss" type=courseportrait portrait=driss height=0.7 idle=none color=#8a7a5a voice="de-DE" pitch=0.85
+char samira  "Samira Bennani" type=courseportrait portrait=samira height=0.85 idle=none color=#2f6f8f voice="de-DE Female"
+char khadija "Khadija" type=courseportrait portrait=khadija height=0.85 idle=none color=#7a8b3a voice="de-DE Female" pitch=1.1
+char kollege "Kollege Driss" type=courseportrait portrait=driss height=0.7 idle=none color=#8a7a5a voice="de-DE Male" pitch=0.85
 char ich     "Sie"                 base:man color=#555555 voice="de-DE" pitch=0.95
 char gedanke "Ihr Gedanke"         base:man color=#999999 voice="de-DE" rate=0.9
 var rolle = ""

@@ -5,12 +5,12 @@ version:  0.1.0
 language: en
 narrator: UK English Female
 comment:  Module 1 of the course “Droits humains, droits des femmes et Loi 103-13” – human rights and women’s rights as a commitment Morocco has made itself. Teaser version, translated from German (draft translation, to be reviewed).
-import:   https://raw.githubusercontent.com/LiaTemplates/pixijs/0.5.0/README.md
+import:   https://raw.githubusercontent.com/LiaTemplates/pixijs/0.5.1/README.md
 script:   ./assets/portraits/portrait-animation.js
 
-translation: Arabic ./README.ar.md
-translation: French ./README.fr.md
-translation: German ./README.md
+translation: Arabic README.ar.md
+translation: French README.fr.md
+translation: German README.md
 -->
 
 # Human Rights and Women’s Rights
@@ -50,9 +50,9 @@ bg   stadt       assets/images/hintergrund-stadt-schule.png   alt="A quiet stree
 image achten_symbol        assets/images/symbol-achten.png        type=courseimage height=0.24 y=0.39 alt="Symbol for respect: an open hand"
 image schuetzen_symbol     assets/images/symbol-schuetzen.png     type=courseimage height=0.24 y=0.39 alt="Symbol for protect: a shield"
 image gewaehrleisten_symbol assets/images/symbol-gewaehrleisten.png type=courseimage height=0.24 y=0.39 alt="Symbol for fulfil: an open door with light"
-char samira  "Samira Bennani" type=courseportrait portrait=samira height=0.85 idle=none color=#2f6f8f voice="en-GB"
-char khadija "Khadija" type=courseportrait portrait=khadija height=0.85 idle=none color=#7a8b3a voice="en-GB" pitch=1.1
-char kollege "Driss, your colleague" type=courseportrait portrait=driss height=0.7 idle=none color=#8a7a5a voice="en-GB" pitch=0.85
+char samira  "Samira Bennani" type=courseportrait portrait=samira height=0.85 idle=none color=#2f6f8f voice="en-GB Female"
+char khadija "Khadija" type=courseportrait portrait=khadija height=0.85 idle=none color=#7a8b3a voice="en-GB Female" pitch=1.1
+char kollege "Driss, your colleague" type=courseportrait portrait=driss height=0.7 idle=none color=#8a7a5a voice="en-GB Male" pitch=0.85
 char ich     "You"                 base:man color=#555555 voice="en-GB" pitch=0.95
 char gedanke "Your thought"        base:man color=#999999 voice="en-GB" rate=0.9
 var rolle = ""

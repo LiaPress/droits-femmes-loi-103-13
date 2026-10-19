@@ -5,12 +5,12 @@ version:  0.1.0
 language: fr
 narrator: French Female
 comment:  Module 1 du cours « Droits humains, droits des femmes et Loi 103-13 » – les droits humains et les droits des femmes, un engagement que le Maroc a lui-même pris. Version teaser, traduite de l’allemand (projet de traduction, relecture à faire).
-import:   https://raw.githubusercontent.com/LiaTemplates/pixijs/0.5.0/README.md
+import:   https://raw.githubusercontent.com/LiaTemplates/pixijs/0.5.1/README.md
 script:   ./assets/portraits/portrait-animation.js
 
-translation: Allemand ./README.md
-translation: Anglais  ./README.en.md
-translation: Arabe    ./README.ar.md
+translation: Allemand README.md
+translation: Anglais  README.en.md
+translation: Arabe    README.ar.md
 -->
 
 # Droits humains et droits des femmes
@@ -50,9 +50,9 @@ bg   stadt       assets/images/hintergrund-stadt-schule.png   alt="Une rue calme
 image achten_symbol        assets/images/symbol-achten.png        type=courseimage height=0.24 y=0.39 alt="Symbole de respecter : une main ouverte"
 image schuetzen_symbol     assets/images/symbol-schuetzen.png     type=courseimage height=0.24 y=0.39 alt="Symbole de protéger : un bouclier"
 image gewaehrleisten_symbol assets/images/symbol-gewaehrleisten.png type=courseimage height=0.24 y=0.39 alt="Symbole de garantir : une porte ouverte avec de la lumière"
-char samira  "Samira Bennani" type=courseportrait portrait=samira height=0.85 idle=none color=#2f6f8f voice="fr-FR"
-char khadija "Khadija" type=courseportrait portrait=khadija height=0.85 idle=none color=#7a8b3a voice="fr-FR" pitch=1.1
-char kollege "Driss, le collègue" type=courseportrait portrait=driss height=0.7 idle=none color=#8a7a5a voice="fr-FR" pitch=0.85
+char samira  "Samira Bennani" type=courseportrait portrait=samira height=0.85 idle=none color=#2f6f8f voice="fr-FR Female"
+char khadija "Khadija" type=courseportrait portrait=khadija height=0.85 idle=none color=#7a8b3a voice="fr-FR Female" pitch=1.1
+char kollege "Driss, le collègue" type=courseportrait portrait=driss height=0.7 idle=none color=#8a7a5a voice="fr-FR Male" pitch=0.85
 char ich     "Vous"                base:man color=#555555 voice="fr-FR" pitch=0.95
 char gedanke "Votre pensée"        base:man color=#999999 voice="fr-FR" rate=0.9
 var rolle = ""
